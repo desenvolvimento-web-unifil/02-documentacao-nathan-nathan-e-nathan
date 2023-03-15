@@ -1,7 +1,10 @@
 Índice
-1.	Introdução	8
+1. Introdução	8
+
 1.1	Proposta	12
+
 1.2	Escopo	20
+
 1.4	Visão Geral 24	
 
 
