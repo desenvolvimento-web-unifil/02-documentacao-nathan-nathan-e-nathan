@@ -56,7 +56,7 @@ usecase "Ver lista de usuarios offline e online" as UC16
 usecase "Historico de transações" as UC17
 usecase "Ver dados dos usuarios" as UC18
 usecase "Ver saldo restante do site" as UC19
-usecase "Tirar site do ar para manutenção" UC20
+usecase "Tirar site do ar para manutenção" as UC20
 }
 
 User -> UC1
