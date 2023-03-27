@@ -81,3 +81,5 @@ UC16 -> UC18
 Admin --> UC19
 Admin --> UC20
 @enduml
+
+![Caso de uso](https://user-images.githubusercontent.com/82913603/228021539-7b82bc87-4891-4c1e-a990-927c22277825.png)
